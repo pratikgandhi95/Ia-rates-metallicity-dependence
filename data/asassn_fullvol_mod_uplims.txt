@@ -1,0 +1,2 @@
+#Sample massBin relRateErrLow relRate relRateErrUp
+Full 7.0 0.0 0.0 16.311966667530616

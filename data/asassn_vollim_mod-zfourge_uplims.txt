@@ -1,0 +1,3 @@
+#Sample massBin relRateErrLow relRate relRateErrUp
+Vol_limited 6.5 0.0 0.0 24.22194416414079
+Vol_limited 7.0 0.0 0.0 21.95823175311802
